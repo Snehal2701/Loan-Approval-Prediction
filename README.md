@@ -9,13 +9,13 @@ Loan Approval Prediction is one of the problems that Machine Learning has solved
 The company seeks to automate (in real time) the loan qualifying procedure based on information given by customers while filling out an online application form. It is expected that the development of ML models that can help the company predict loan approval in accelerating decision-making process for determining whether an applicant is eligible for a loan or not.
 
 ## Project Steps
-Download the dataset from https://statso.io/loan-approval-prediction-case-study/
-Importing the necessary packages and libraries
-Exploring the data and check missing values and outliers
-Data Preparation and Training Loan approval prediction model
+* Download the dataset from https://statso.io/loan-approval-prediction-case-study/
+* Importing the necessary packages and libraries
+* Exploring the data and check missing values and outliers
+* Data Preparation and Training Loan approval prediction model
 
 ## Requirements
-Jupyter Notebook
-Colab
+* Jupyter Notebook
+* Colab
 
 
